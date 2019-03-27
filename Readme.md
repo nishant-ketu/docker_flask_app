@@ -6,5 +6,5 @@ steps to start docker:
 5. Next: docker run -p 5000:5000 my_app:latest
 
 Or Simply run my_app image from docker hub.
-Run Command: docker pull nishantketu/my_app
-Next: docker run -p 5000:5000 nishantketu/my_app:latest
+1. Run Command: docker pull nishantketu/my_app
+2. Next: docker run -p 5000:5000 nishantketu/my_app:latest
